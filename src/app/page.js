@@ -48,7 +48,7 @@ export default function FoodReviewPage() {
         </Text>
         <Pagination total={20} color="orange" position="center" mt={"md"} />
         <Text align="center" color="dimmed" my="sm">
-          Copyright © 2023 Natthapon Chanaveroj 650612082
+          Copyright © 2023 Pongporn Seetong 650612091
         </Text>
       </Container>
     </>
